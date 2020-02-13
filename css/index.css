@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(245, 242, 238);
+}
+
+.container {
+    width: 100%;
+}
+
+h1 {
+    color: rgb(184, 38, 28);
+    text-align: center;
+    padding: 2%;
+    border: 2px solid rgb(184, 38, 28);   
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    color: rgb(184, 38, 28);
+    font-size: 120%
+}
+
+span {
+    color: lightgray;
+}
